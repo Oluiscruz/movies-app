@@ -1,0 +1,15 @@
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Numans&family=Signika+Negative:wght@300..700&display=swap');
+
+    margin: 0;
+    padding: 0;
+    border:0;
+    box-sizing: border-box;
+    font-family: 'Numans', sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to top,#00020c, rgb(2, 2, 39));
+}
